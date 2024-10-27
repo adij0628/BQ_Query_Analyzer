@@ -1,0 +1,5 @@
+main.py
+debug.log
+query_optimizer.log
+.env
+bq_optimizer

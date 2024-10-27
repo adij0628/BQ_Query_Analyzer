@@ -1,0 +1,10 @@
+streamlit
+google-cloud-bigquery
+google-auth
+openai
+pandas
+plotly
+typing_extensions
+uuid
+python-dotenv
+google-cloud-bigquery[pandas]
